@@ -1,3 +1,4 @@
+#coin flip or dice game
 def coin_flip():
     right = 0
     wrong = 0
